@@ -16,6 +16,7 @@
 
 ---
 
+* [Introduction to Stake Woonkly](introduction-to-stake.md)
 * [Decentralized Social Network](untitled-1.md)
 * [Own DEX \(AMM\)](own-dex-amm.md)
 * [Blockchain-based Startup Accelerator](blockchain-based-startup-accelerator.md)
@@ -29,7 +30,6 @@
 * [Buy and sell WOOP on Woonkly.com](buy-and-sell-woop-on-woonkly.com.md)
 * [Buy and sell WOOP on 1inch.exchange](buy-and-sell-woop-on-1inch.exchange.md)
 * [Buy and sell WOOP at pancakeswap.finance](buy-and-sell-woop-at-pancakeswap.finance.md)
-* [Introduction to Stake](introduction-to-stake.md)
 * [Withdraw Stake Winnings](withdraw-stake-winnings.md)
 
 ## decentralized social network <a id="decentralized-social-network-1"></a>

@@ -2,7 +2,7 @@
 description: All Woonkly Net Profit is decentralized
 ---
 
-# Introduction to Stake
+# Introduction to Stake Woonkly
 
 Holders of the Woonkly "WOOP" BEP20 token can voluntarily lock their tokens in the Woonkly Stake Panel in exchange for obtaining a percentage of the net profit from the Woonkly protocol.  
   
