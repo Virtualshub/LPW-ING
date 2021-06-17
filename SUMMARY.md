@@ -17,7 +17,12 @@
 ---
 
 * [Introduction to Stake Woonkly](introduction-to-stake.md)
-* [Decentralized Social Network](untitled-1.md)
+
+## decentralized social network <a id="decentralized-social-network-1"></a>
+
+---
+
+* [Decentralized Social Network \(In Process\)](untitled-1.md)
 * [Own DEX \(AMM\)](own-dex-amm.md)
 * [Blockchain-based Startup Accelerator](blockchain-based-startup-accelerator.md)
 
@@ -31,11 +36,6 @@
 * [Buy and sell WOOP on 1inch.exchange](buy-and-sell-woop-on-1inch.exchange.md)
 * [Buy and sell WOOP at pancakeswap.finance](buy-and-sell-woop-at-pancakeswap.finance.md)
 * [Withdraw Stake Winnings](withdraw-stake-winnings.md)
-
-## decentralized social network <a id="decentralized-social-network-1"></a>
-
----
-
 * [Decentralized Social Network](decentralized-social-network.md)
 * [Network Operation](network-operation.md)
 * [Earn BEP20 Tokens by sharing content](earn-bep20-tokens-by-sharing-content.md)
