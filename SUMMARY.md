@@ -24,20 +24,6 @@
 
 * [Decentralized Social Network \(In Process\)](untitled-1.md)
 * [Network Operation](network-operation.md)
-* [Own DEX \(AMM\)](own-dex-amm.md)
-* [Blockchain-based Startup Accelerator](blockchain-based-startup-accelerator.md)
-
-## DEX, SWAP and liquidity
-
----
-
-* [Add liquidity to the POOL](add-liquidity-to-the-pool.md)
-* [Gains from adding Liquidity](gains-from-adding-liquidity.md)
-* [Buy and sell WOOP on Woonkly.com](buy-and-sell-woop-on-woonkly.com.md)
-* [Buy and sell WOOP on 1inch.exchange](buy-and-sell-woop-on-1inch.exchange.md)
-* [Buy and sell WOOP at pancakeswap.finance](buy-and-sell-woop-at-pancakeswap.finance.md)
-* [Withdraw Stake Winnings](withdraw-stake-winnings.md)
-* [Decentralized Social Network](decentralized-social-network.md)
 * [Earn BEP20 Tokens by sharing content](earn-bep20-tokens-by-sharing-content.md)
 
 ## advertisers on woonkly
@@ -58,7 +44,22 @@
 ---
 
 * [WOOP in Binance Smart Chain](woop-in-binance-smart-chain.md)
+* [wDEFI Token](wdefi-token.md)
 * [Woonkly Blockchain](woonkly-blockchain.md)
+* [Own DEX \(AMM\)](own-dex-amm.md)
+* [Blockchain-based Startup Accelerator](blockchain-based-startup-accelerator.md)
+
+## DEX, SWAP and liquidity
+
+---
+
+* [Add liquidity to the POOL](add-liquidity-to-the-pool.md)
+* [Gains from adding Liquidity](gains-from-adding-liquidity.md)
+* [Buy and sell WOOP on Woonkly.com](buy-and-sell-woop-on-woonkly.com.md)
+* [Buy and sell WOOP on 1inch.exchange](buy-and-sell-woop-on-1inch.exchange.md)
+* [Buy and sell WOOP at pancakeswap.finance](buy-and-sell-woop-at-pancakeswap.finance.md)
+* [Withdraw Stake Winnings](withdraw-stake-winnings.md)
+* [Decentralized Social Network](decentralized-social-network.md)
 * [Conecting Metamask to Woonkly Testnet](conecting-metamask-to-woonkly-testnet.md)
 * [IFBT 2.0 consensus protocol](ifbt-2.0-consensus-protocol.md)
 * [Transaction pool](transaction-pool.md)
