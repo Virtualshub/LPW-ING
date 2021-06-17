@@ -7,10 +7,10 @@
 * [Stake Pool](stake-pool.md)
 * [Revenue Automation](revenue-automation.md)
 * [Roadmap](roadmap.md)
+* [Tokenomics Woop](tokenomics.md)
 * [Decentralized Social Network](untitled-1.md)
 * [Own DEX \(AMM\)](own-dex-amm.md)
 * [Blockchain-based Startup Accelerator](blockchain-based-startup-accelerator.md)
-* [Tokenomics Woop](tokenomics.md)
 * [Audits and Partnerships](audits-and-partnerships.md)
 * [Coopetition Woonkly](coopetition-woonkly.md)
 
