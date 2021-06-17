@@ -2,7 +2,7 @@
 description: Woonkly Token Structure (WOOP)
 ---
 
-# Tokenomics
+# Tokenomics Woop
 
 There are 1,000,000,000 \(one billion\) of WOOP, our Utility Token created on the Binance Smart Chain \(BSC\) network. Currently, there are more than 7,300 Holders and more than 43,900 Transactions on the Blockchain as of March 2, 2021. [See here](https://bscscan.com/token/0x8b303d5bbfbbf46f1a4d9741e491e06986894e18).  
   
