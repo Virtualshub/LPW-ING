@@ -80,6 +80,11 @@
 
 ---
 
+* [Crypto Wallet Licenses/ Crypto Exchange UE](crypto-wallet-licenses-crypto-exchange-ue.md)
+* [Terms and Conditions](terms-and-conditions.md)
+* [Products and Servies](products-and-servies.md)
+* [Privacy Policy](privacy-policy.md)
+* [Cookies Policy](legal-provision.md)
 * [Own DEX \(AMM\)](own-dex-amm.md)
 * [Blockchain-based Startup Accelerator](blockchain-based-startup-accelerator.md)
 
@@ -96,9 +101,4 @@
 * [Decentralized Social Network](decentralized-social-network.md)
 * [How to see the WOOP Price](how-to-see-the-woop-price.md)
 * [Woonkly Social Media](woonkly-social-media.md)
-* [Crypto Wallet Licenses/ Crypto Exchange UE](crypto-wallet-licenses-crypto-exchange-ue.md)
-* [Terms and Conditions](terms-and-conditions.md)
-* [Products and Servies](products-and-servies.md)
-* [Privacy Policy](privacy-policy.md)
-* [Cookies Policy](legal-provision.md)
 
