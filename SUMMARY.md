@@ -9,26 +9,26 @@
 * [Roadmap](roadmap.md)
 * [Tokenomics Woop](tokenomics.md)
 * [Audits and Partnerships](audits-and-partnerships.md)
+* [Coopetition Woonkly](coopetition-woonkly.md)
+* [Introduction to swap](introduction-to-swap.md)
+
+## stake panel woonkly <a id="stake-panel"></a>
+
+---
+
 * [Decentralized Social Network](untitled-1.md)
 * [Own DEX \(AMM\)](own-dex-amm.md)
 * [Blockchain-based Startup Accelerator](blockchain-based-startup-accelerator.md)
-* [Coopetition Woonkly](coopetition-woonkly.md)
 
 ## DEX, SWAP and liquidity
 
 ---
 
-* [Introduction to swap](introduction-to-swap.md)
 * [Add liquidity to the POOL](add-liquidity-to-the-pool.md)
 * [Gains from adding Liquidity](gains-from-adding-liquidity.md)
 * [Buy and sell WOOP on Woonkly.com](buy-and-sell-woop-on-woonkly.com.md)
 * [Buy and sell WOOP on 1inch.exchange](buy-and-sell-woop-on-1inch.exchange.md)
 * [Buy and sell WOOP at pancakeswap.finance](buy-and-sell-woop-at-pancakeswap.finance.md)
-
-## stake panel
-
----
-
 * [Introduction to Stake](introduction-to-stake.md)
 * [Withdraw Stake Winnings](withdraw-stake-winnings.md)
 
