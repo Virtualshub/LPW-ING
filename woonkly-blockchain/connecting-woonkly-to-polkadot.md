@@ -12,7 +12,7 @@ ChainID: `1287`
 
 Symbol \(Optional\): `DEV`
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ## Moonbase Alpha Faucet <a id="moonbase-alpha-faucet"></a>
 

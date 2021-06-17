@@ -12,5 +12,5 @@ Hyperledger Besu architecture**
 
 The following diagram describes the high-level architecture of Hyperledger Besu.
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 

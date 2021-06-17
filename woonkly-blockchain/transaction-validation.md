@@ -7,7 +7,7 @@ description: >-
 
 # Transaction validation
 
-![Transaction validator](.gitbook/assets/image%20%2836%29.png)
+![Transaction validator](../.gitbook/assets/image%20%2836%29.png)
 
 The transaction pool validation set is repeated after the transaction is propagated.  
   
