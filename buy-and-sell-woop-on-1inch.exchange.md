@@ -1,6 +1,6 @@
 # Buy and sell WOOP on 1inch.exchange
 
-**🔴 It is important to carry out all the configurations from a PC with official links**
+**🔴 It is important to carry out all the configurations from a PC with official links.**
 
 **1- METAMASK**
 
