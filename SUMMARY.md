@@ -75,6 +75,11 @@
 * [Certik Audit](certik-audit.md)
 * [Hacken Audit](hacken-audit.md)
 * [Audit Coin Fabrik](audit-coin-fabrik.md)
+
+## Legal dispositions <a id="legal-disposiciones"></a>
+
+---
+
 * [Own DEX \(AMM\)](own-dex-amm.md)
 * [Blockchain-based Startup Accelerator](blockchain-based-startup-accelerator.md)
 
@@ -91,11 +96,6 @@
 * [Decentralized Social Network](decentralized-social-network.md)
 * [How to see the WOOP Price](how-to-see-the-woop-price.md)
 * [Woonkly Social Media](woonkly-social-media.md)
-
-## Legal dispositions <a id="legal-disposiciones"></a>
-
----
-
 * [Crypto Wallet Licenses/ Crypto Exchange UE](crypto-wallet-licenses-crypto-exchange-ue.md)
 * [Terms and Conditions](terms-and-conditions.md)
 * [Products and Servies](products-and-servies.md)
