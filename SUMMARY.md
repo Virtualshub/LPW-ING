@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Woonkly Story](README.md)
+* [What is Woonkly](what-is-woonkly.md)
+* [Woonkly Story](woonkly-story.md)
 * [Woonkly Products](woonkly-products-1.md)
 * [Decentralized Social Network](untitled-1.md)
 * [Own DEX \(AMM\)](own-dex-amm.md)
