@@ -88,7 +88,6 @@
 * [Products and Servies](products-and-servies.md)
 * [Privacy Policy](privacy-policy.md)
 * [Cookies Policy](legal-provision.md)
-* [Own DEX \(AMM\)](own-dex-amm.md)
 
 ## DEX, SWAP and liquidity
 
@@ -96,7 +95,8 @@
 
 * [Add liquidity to the POOL](add-liquidity-to-the-pool.md)
 * [Gains from adding Liquidity](gains-from-adding-liquidity.md)
-* [Buy and sell WOOP on Woonkly.com](buy-and-sell-woop-on-woonkly.com.md)
+* [Buy and sell WOOP on Woonkly.com](buy-and-sell-woop-on-woonkly.com/README.md)
+  * [Own DEX \(AMM\)](buy-and-sell-woop-on-woonkly.com/own-dex-amm.md)
 * [Buy and sell WOOP on 1inch.exchange](buy-and-sell-woop-on-1inch.exchange.md)
 * [Buy and sell WOOP at pancakeswap.finance](buy-and-sell-woop-at-pancakeswap.finance.md)
 * [Withdraw Stake Winnings](withdraw-stake-winnings.md)

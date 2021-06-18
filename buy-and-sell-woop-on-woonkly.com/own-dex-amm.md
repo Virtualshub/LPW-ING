@@ -12,11 +12,11 @@ This protocol is the skeleton or "core" of three of Woonkly's Products.
 * The DEX Multitoken / Multichain ERC20 / BEP20 that allows exchange tokens and creates liquidity pools within the Ethereum network and within the Binance Smart Chain network.
 * The DEX Crosschain Bridge between ERC20 and BEP20 Networks that allows to exchange tokens between different blockchains immediately.
 
-![DEX Swap and Automated Market Maker by Woonkly](.gitbook/assets/image%20%2865%29.png)
+![DEX Swap and Automated Market Maker by Woonkly](../.gitbook/assets/image%20%2865%29.png)
 
-![Vision of Woonkly&apos;s Inner DEX \(AMM\)](.gitbook/assets/image%20%2837%29.png)
+![Vision of Woonkly&apos;s Inner DEX \(AMM\)](../.gitbook/assets/image%20%2837%29.png)
 
-![Vision of liquidity providers to the Woonkly Decentralized Pool](.gitbook/assets/image%20%2812%29.png)
+![Vision of liquidity providers to the Woonkly Decentralized Pool](../.gitbook/assets/image%20%2812%29.png)
 
-![Woonkly Shared Liquidity Pool Vision](.gitbook/assets/image%20%2849%29.png)
+![Woonkly Shared Liquidity Pool Vision](../.gitbook/assets/image%20%2849%29.png)
 
