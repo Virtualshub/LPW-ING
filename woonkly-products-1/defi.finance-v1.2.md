@@ -57,8 +57,21 @@ wDEFI-BNB LP
 
 wDEFI-BUSD LP
 
-WOOP-BUSD LP  
+WOOP-BUSD LP
 
+![Stake tab](../.gitbook/assets/df_st.png)
+
+In the Stake Panel section, you can obtain benefits when performing Stake.
+
+At this moment in V1.2 the tokens enabled to perform Stake are:
+
+WOOP
+
+wDEFI
+
+Work is being done on V2.  
+  
+****
 
   
 
