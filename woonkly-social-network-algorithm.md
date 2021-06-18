@@ -17,7 +17,9 @@ We use Bert and we are experimenting with GPT-2
 
 In particular, what makes this new model better is that it can **understand passages** within documents in the same way that **BERT** understands words and sentences, allowing the algorithm to understand longer documents.  
   
-**Let's first clarify what a passage is on a web page**
+****
+
+### **Let's first clarify what a passage is on a web page**
 
 According to **Martin Splitt** from Google, a passage is a specific part within a document \(url, post, product page, page\) where the algorithm will try to understand the document in parts and _be able to qualify different parts of a page independently.  
 ****_  
@@ -26,7 +28,9 @@ According to **Martin Splitt** from Google, a passage is a specific part within 
 ![](.gitbook/assets/image%20%2835%29.png)
 
   
-**How BERT works**
+****
+
+## **How BERT works**
 
 BERT uses Transformer, an attention mechanism that learns the contextual relationships between words \(or subwords\) in a text. In its basic form, Transformer includes two separate mechanisms: an encoder that reads the text input and a decoder that produces a prediction for the task. Since the goal of BERT is to generate a language model, only the encoder mechanism is required. The detailed operation of Transformer is described in a Google [doc](https://arxiv.org/pdf/1706.03762.pdf).  
   
@@ -37,7 +41,9 @@ The following table is a high-level description of the transformer encoder. The 
 When training language models, there is the challenge of defining a prediction target. Many models predict the next word in a sequence \(for example, "Child came home from \_\_\_"\), a directional approach that inherently limits learning from context. To overcome this challenge, BERT uses two training strategies:
 
   
-**Masked LM \(MLM\)**
+****
+
+### **Masked LM \(MLM\)**
 
 Before entering sequences of words into BERT, 15% of the words in each sequence are replaced with a \[MASK\] token. The model then tries to predict the original value of the masked words, based on the context provided by the other unmasked words in the sequence. In technical terms, predicting the output words requires:
 
@@ -47,9 +53,12 @@ Before entering sequences of words into BERT, 15% of the words in each sequence 
 
 ![](.gitbook/assets/image%20%2857%29.png)
 
-**Next Sentence Prediction \(NSP\)  
-  
-In the BERT training process, the model receives sentence pairs as input and learns to predict whether the second sentence of the pair is the subsequent sentence in the original** document. During training, 50% of the entries are a pair in which the second sentence is the after sentence in the original document, while in the other 50% a random sentence from the corpus is chosen as the second sentence. The assumption is that the random sentence will be disconnected from the first sentence.  
+\*\*\*\*
+
+### **Next Sentence Prediction \(NSP\)** 
+
+In the BERT training process, the model receives sentence pairs as input and learns to predict whether the second sentence of the pair is the subsequent sentence in the  
+original document. During training, 50% of the entries are a pair in which the second sentence is the after sentence in the original document, while in the other 50% a random sentence from the corpus is chosen as the second sentence. The assumption is that the random sentence will be disconnected from the first sentence.  
   
 To help the model distinguish between the two sentences in training, the input is processed as follows before entering the model:
 
@@ -67,8 +76,10 @@ To predict whether the second sentence is actually connected to the first, the f
 
 When training the BERT model, Masked LM and Next Sentence Prediction are trained together, with the goal of minimizing the combined loss function of the two strategies.  
   
-**Conclusion**  
-  
+****
+
+## **Conclusion**  
+
 BERT is without a doubt a breakthrough in the use of machine learning for natural language processing. The fact that it is accessible and allows quick fine tuning will likely allow for a wide range of practical applications in the future. In this summary, we try to describe the main ideas of the article without drowning in excessive technical detail. For those who want a deeper dive, we recommend reading the full article and the ancillary articles referenced in it. Another useful reference is the [BERT](https://github.com/google-research/bert) [source code](https://github.com/google-research/bert) and models, which cover 103 languages and were generously released as open source by the research team.  
 
 
