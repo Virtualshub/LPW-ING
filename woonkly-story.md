@@ -22,19 +22,18 @@ These events include:
 * International Cryptocurrency Investment Congress in Dubai, September 2018
 * Blockchain Murcia, May 2019
 
-After proving that the concept had a place within the Crypto and Advertising world, Woonkly started operations with a team of developers in Mexico and, enduring thick and thin, it has reached the present day.
-
-Today, Woonkly has a Telegram community of more than 15,000 People; a Crypto Startup Accelerator; a Own Blockchain Network, created under the Hyperledger BESU protocol; a token created under the Binance Smart Chain Network; Crypto Wallet and Cryptocurrency Exchange licenses regulated by the European Union; connection with the protocol of Polkadot, Ethereum and Binance Smart Chain; a decentralized network of nodes and its token trades with a daily volume of between 2,000,000 and 12,000,000 US dollars.
-
-The first two protocols that Woonkly will launch at the end of March include a Staking BEP20 protocol and its own DEX for the purchase of the AMM \(Automated Market Maker\) token.  
+After proving that the concept had a place within the crypto and advertising world, Woonkly started operations with a team of developers in Mexico.  
 
 
-Woonkly's Social Network, created under its own blockchain connected to the Binance Smart Chain network, will see the light of day around the end of May 2021.
+Today, Woonkly has more than 17 developers and a team of professionals located in different parts of the world. In addition, Woonkly found a great market opportunity, since there are many areas in which innovation is required and various needs to be covered because the blockchain and crypto world is an ecosystem in constant evolution.  
 
-The first Startups accelerated by Woonkly will be announced throughout March 2021 and it will be invested in at least 12 Startups per year, the profits of which will go to the holders of WOOP \(the Woonkly token\), who are doing Stake in their protocol.
 
-Woonkly will also launch a DEX BEP20 and ERC20 at the end of April 2021 and is working to regulate the world's first regulated DEX Crosschain & Stable Coin, making use of the European Regulation.
+Therefore, Woonkly became a corporate technology solutions "Woonkly Labs" and the initial social network application one of its branches.  
 
-**The story has just begun ...**  
+
+Today, Woonkly has more than six products / services within its parent company and continues to constantly grow, program and innovate on a daily basis.  
+****
+
+**This is Woonkly and the story has just begun ...**  
 
 
