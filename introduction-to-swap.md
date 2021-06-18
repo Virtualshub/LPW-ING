@@ -4,6 +4,7 @@ description: Buy and Sell Woops in a decentralized way
 
 # Introduction to swap
 
+  
 At Woonkly.com you can buy and sell our "WOOP" token created on the Binance Smart Chain Network \(Bep20\) in a decentralized way. Users can provide liquidity to the Pool and thereby obtain a percentage of the profits generated in the Swap.  
   
 ****This technology is also used in our DEX ERC20 / BEP20 that will see the light on May 1, 2021 and in our DEX Crosschain ERC20 / BEP20, unique in the world, which will allow users to exchange any token of the ERC20 network with any token of the BEP20 network and vice versa \(the Dex Crosschain is pending regulation\).

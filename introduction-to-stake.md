@@ -4,15 +4,25 @@ description: All Woonkly Net Profit is decentralized
 
 # Introduction to Stake Woonkly
 
-Holders of the Woonkly "WOOP" BEP20 token can voluntarily lock their tokens in the Woonkly Stake Panel in exchange for obtaining a percentage of the net profit from the Woonkly protocol.  
+Currently all WOOP holders who want to stake will be able to do so in defi.finance which generates profit through an APR algorithm that is dynamic.  
+****
+
+When adding WOOP BEP20 tokens to the Stake, it will be necessary to sign 2 times, the first to interact with the Smart Contract and the second to make the deposit or withdrawal of the tokens in the Smart Contract. The gas will always be borne by the user who must have BNB BEP20 in his wallet in order to carry out the transaction. Otherwise, the system will throw an error.
+
+At the moment the social network is in process, when it is finalized, users will be able to:
+
+Holders of the Woonkly "WOOP" BEP20 token can voluntarily lock their tokens in the Woonkly Stake Panel in exchange for obtaining a percentage of the net profit from the Woonkly protocol. \(In progress\)  
+
+
+**100% of Woonkly's Net Profit will be tokenized and decentralized.**
+
+Within the Woonkly Stake Panel you can block your tokens to obtain liquidity at any time from 100 WOOP, being able to add individual units from this minimum amount \(example: 100 + 1\).
+
+Every 100 WOOP represents 0.00001% of the net profit of the Woonkly protocol, with 100,000 WOOP being 0.01% and 1,000,000,000 WOOP \(the max supply\), 100% of the net profit.  
   
-**100% of Woonkly's Net Profit is tokenized and decentralized.**  
-  
-Within the Woonkly Stake Panel you can block your tokens to obtain liquidity at any time from 100 WOOP, being able to add individual units from this minimum amount \(example: 100 + 1\).  
-  
-Each 100 WOOP represents 0.00001% of the net profit of the Woonkly protocol, with 100,000 WOOP being 0.01% and 1,000,000,000 WOOP \(the max supply\), 100% of the net profit.  
-  
-**What benefits do Stakers get?**
+****
+
+## **What benefits do Stakers get?**
 
 * 15% of all tokens distributed by advertisers on the Social Network.
 * 80% of the Profit reported by Woonkly Accelerated Startups.
@@ -21,22 +31,6 @@ Each 100 WOOP represents 0.00001% of the net profit of the Woonkly protocol, wit
 * 0.1% of the Profits obtained from the Swap in our next DEX ERC20 / BEP20
 * 0.05% of the Profits obtained from our next DEX Crosschain ERC20 / BEP20 protocol
 * An additional % of any new project created by Woonkly.
-
-**How are WOOP tokens added to the Stake?**
-
-{% hint style="info" %}
-The Woonkly.com Stake Panel works on the Binance Smart Chain network, so it is necessary to be connected to said network to be able to add tokens to the stake, to withdraw or to extract the benefits in tokens. The gas will always be borne by the user who must have BNB BEP20 in his wallet in order to carry out the transaction. Otherwise, the system will throw an error.
-{% endhint %}
-
-![Woonkly Stake Panel Vision](.gitbook/assets/image%20%2864%29.png)
-
-![Connect your Metamask](.gitbook/assets/image%20%282%29.png)
-
-![Hit add liquidity and sign 2 times](.gitbook/assets/image%20%2831%29.png)
-
-{% hint style="info" %}
-When adding WOOP BEP20 tokens to the Stake, it will be necessary to sign 2 times, the first to interact with the Smart Contract and the second to make the deposit or withdrawal of the tokens in the Smart Contract. The gas will always be borne by the user who must have BNB BEP20 in his wallet in order to carry out the transaction. Otherwise, the system will show an error.
-{% endhint %}
 
 Users are completely free to add or withdraw tokens from the Stake, but they will only receive their proportionate share of Woonkly's net profit when they keep their tokens in the Stake.  
   
