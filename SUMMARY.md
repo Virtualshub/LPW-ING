@@ -3,7 +3,9 @@
 * [Woonkly Story](README.md)
 * [What is Woonkly](what-is-woonkly.md)
 * [Woonkly Story](woonkly-story.md)
-* [Woonkly Products](woonkly-products-1.md)
+* [Woonkly Products](woonkly-products-1/README.md)
+  * [NFT.FINANCE](woonkly-products-1/nft.finance.md)
+  * [Blockchain-based Startup Accelerator](woonkly-products-1/blockchain-based-startup-accelerator.md)
 * [Stake Pool](stake-pool.md)
 * [Revenue Automation](revenue-automation.md)
 * [Roadmap](roadmap.md)
@@ -86,7 +88,6 @@
 * [Privacy Policy](privacy-policy.md)
 * [Cookies Policy](legal-provision.md)
 * [Own DEX \(AMM\)](own-dex-amm.md)
-* [Blockchain-based Startup Accelerator](blockchain-based-startup-accelerator.md)
 
 ## DEX, SWAP and liquidity
 
