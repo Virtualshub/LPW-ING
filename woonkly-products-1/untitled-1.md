@@ -12,7 +12,7 @@ Massive Social Networks today have full control over user data, which they use f
 All Woonkly Social Network technology is being developed on its own Blockchain, created in Hyperledger BESU and with direct connection to Polkadot, Ethereum and Binance Smart Chain.  
 ****
 
-**Benefits of the Woonkly Decentralized Social Network**
+## **Benefits of the Woonkly Decentralized Social Network**
 
 * It is created 100% on Blockchain.
 * All data entered by users belongs to users.
