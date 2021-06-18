@@ -7,9 +7,23 @@ description: 'Woonkly implements the following consensus protocols:'
   
 ****
 
-* **IBFT 2.0 \(Proof of Authority\)**
+* \*\*\*\*[**IBFT 2.0**](https://besu.hyperledger.org/en/stable/HowTo/Configure/Consensus-Protocols/IBFT/) **\(Proof of Authority\)**
 
 The config property in the genesis file specifies the consensus protocol for a string.
+
+
+
+```text
+{
+  "config": {
+   ...
+    "ibft2": {
+     ...
+   }
+  },
+  ...
+}
+```
 
 Proof of authority consensus protocols work when participants know each other and there is a level of trust between them. For example, in an authorized consortium network.  
   
@@ -18,8 +32,10 @@ The Proof of Authority consensus protocols have faster lock times and much highe
 In Clique and IBFT 2.0, a group of network nodes act as signers \(Clique\) or validators \(IBFT 2.0\). Nodes in the signer / validator group vote to add or remove nodes from the group.
 
   
-**Note**  
-  
+****
+
+## **Note**  
+
 In the rest of this page, the term validator is used to refer to signers and validators.  
   
 Properties The properties to take into account when comparing Clique and IBFT 2.0 are:  
@@ -33,7 +49,7 @@ Minimum number of validators To be Byzantine fault tolerant, IBFT 2.0 requires a
 Clique can operate with a single validator, but operating with a single validator does not offer redundancy if the validator fails.  
 ****
 
-**IFBT**
+## **IFBT**
 
 Byzantine fault tolerance is the ability to function properly and reach consensus despite nodes failing or spreading incorrect information to peers.  
   
