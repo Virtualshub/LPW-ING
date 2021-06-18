@@ -4,30 +4,32 @@ description: Interoperability - scalability + security
 
 # Polkadot - Interoperability
 
-**Why we rely on Polkadot for decentralized social network**  
-  
+## **Why we rely on Polkadot for decentralized social network** 
+
 After extensive research, we decided to build Woonkly using the Substrate development framework and, in the future, deploy Woonkly as a parachain on the Polkadot network, giving us 0 gas cost interoperability within the social network.  
-  
-**Substrate Blockchain Framework**  
-  
+
+
+### **Substrate Blockchain Framework** 
+
 By building on top of this framework, we can take advantage of the extensive functionality that Substrate includes out of the box, rather than having to build it ourselves. This includes peer-to-peer networks, consensus mechanisms, governance functionality, an EVM implementation, and more.  
   
 Overall, using Substrate will dramatically reduce the implementation time and effort required for our blockchain. Substrate allows a great deal of customization, which is necessary to achieve our Ethereum compatibility goals. And by using Rust, we benefit from both security guarantees and performance improvements.  
-  
-**Polkadot network and ecosystem**  
-  
+****
+
+### **Polkadot network and ecosystem** 
+
 The Polkadot net is also a good fit. As a parachain in Polkadot, we will be able to directly integrate and move tokens between any other parachain and parathreads on the network.  
   
 We can also take advantage of any of the bridges that are built independently to connect non-Polkadot to Polkadot chains, including bridges to Ethereum. Polkadot's interoperability model uniquely supports cross-chain integration goals and is a key enabling technology.
 
 ![Testnet Woonkly in Polkadot running on Substrate - Rust](.gitbook/assets/image%20%2828%29.png)
 
-**We will use Moonbeam integrating EVM compatibility to the Polkadot framework  
-  
-Technology  
-  
-The Moonbeam development stack**  
-  
+### **We will use Moonbeam integrating EVM compatibility to the Polkadot framework** 
+
+## **Technology** 
+
+### **The Moonbeam development stack** 
+
 Moonbeam is a smart contract blockchain platform built on the Rust programming language using the Substrate framework.  
   
 **Rust programming language**  
