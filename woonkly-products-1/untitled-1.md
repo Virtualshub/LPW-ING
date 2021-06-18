@@ -32,3 +32,5 @@ All Woonkly Social Network technology is being developed on its own Blockchain, 
 
 ![Vision of the profile of a user or company of the Woonkly Social Network](../.gitbook/assets/image%20%2830%29.png)
 
+![Vision of the profile of a user or company of the Woonkly Social Network](../.gitbook/assets/captura-de-pantalla-2021-03-01-a-las-3.11.46.png)
+
