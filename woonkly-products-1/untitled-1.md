@@ -28,7 +28,7 @@ All Woonkly Social Network technology is being developed on its own Blockchain, 
 * Users earn cryptocurrencies for interacting with advertisers 'content, generating subconscious positive reinforcement on advertisers' brands.
 * Users choose how, when and where they view content
 
-![Vision of the Cover of the Woonkly Decentralized Social Network](.gitbook/assets/image%20%2872%29.png)
+![Vision of the Cover of the Woonkly Decentralized Social Network](../.gitbook/assets/image%20%2872%29.png)
 
-![Vision of the profile of a user or company of the Woonkly Social Network](.gitbook/assets/image%20%2830%29.png)
+![Vision of the profile of a user or company of the Woonkly Social Network](../.gitbook/assets/image%20%2830%29.png)
 
