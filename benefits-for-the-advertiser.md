@@ -10,7 +10,9 @@ In Woonkly, users decide when and how they see advertisers' content, and they wi
   
 When an advertiser creates a viralization campaign on Woonkly, 80% of the capital they invest in advertising is distributed among their audience for sharing their posts.  
   
-**Benefits for the advertiser on Woonkly**
+****
+
+## **Benefits for the advertiser on Woonkly**
 
 * Possibility of advertising with cryptocurrencies.
 * Possibility of advertising projects related to cryptocurrencies.
