@@ -23,9 +23,7 @@ When an advertiser creates a viralization campaign on Woonkly, 80% of the capita
 * They can viralize texts, images, videos and audios, which means that anything from a singer to a clothing brand can be advertised.
 * Any user can advertise their content, either to sell or simply to communicate an idea.
 
-{% hint style="info" %}
-When an advertiser creates a decentralized campaign on Woonkly they will have to pay a gas cost in BNB BEP20. They will not be able to create the campaign without covering the cost of gas.
-{% endhint %}
+
 
   
 
