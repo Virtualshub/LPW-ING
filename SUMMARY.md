@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Woonkly Story](README.md)
+* [Home](README.md)
 * [What is Woonkly](what-is-woonkly.md)
 * [Woonkly Story](woonkly-story.md)
 * [Woonkly Products](woonkly-products-1/README.md)
