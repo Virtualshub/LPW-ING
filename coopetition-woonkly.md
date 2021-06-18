@@ -6,8 +6,7 @@ description: 'Woonkly does not compete, COOPITE.'
 
 > At Woonkly we do not compete, our philosophy is to integrate ourselves with the best international projects.  For this reason, our code is free to use and that of our competition as well. Only the liberation of technology can cause the liberation of humanity."
 
-  
-**Blockchain technology in the advertising industry**
+##  **Blockchain technology in the advertising industry**
 
 **Blockchain technology has been making waves in the digital advertising space, as it is doing in many other industries as well: cutting out unnecessary middlemen,** creating direct relationships between contributing parties, and providing monetization tools.  
   
