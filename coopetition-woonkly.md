@@ -2,7 +2,7 @@
 description: 'Woonkly does not compete, COOPITE.'
 ---
 
-# Coopetition Woonkly
+# "Coo-petition" Woonkly
 
 > At Woonkly we do not compete, our philosophy is to integrate ourselves with the best international projects.  For this reason, our code is free to use and that of our competition as well. Only the liberation of technology can cause the liberation of humanity."
 

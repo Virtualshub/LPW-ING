@@ -13,7 +13,7 @@
 * [Roadmap](roadmap.md)
 * [Tokenomics Woop](tokenomics.md)
 * [Audits and Partnerships](audits-and-partnerships.md)
-* [Coopetition Woonkly](coopetition-woonkly.md)
+* ["Coo-petition" Woonkly](coopetition-woonkly.md)
 * [Introduction to swap](introduction-to-swap.md)
 
 ## stake panel woonkly <a id="stake-panel"></a>
