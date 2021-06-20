@@ -9,29 +9,29 @@ Woonkly is an Estonian technology company, founded by Spanish entrepreneurs, spe
 The workforce is growing day by day so the data displayed here may not be up to date. In any case, you can see our workers by searching for the company "woonkly" in linkedin  
 ****
 
-**1. Daniel Álvaro Santos Córcoles.** CEO of the company and creator of the project, responsible for the final decisions and marketing as well through the private channel of Mr. Santos.[ https://www.linkedin.com/in/danielsantoscorcoles/](https://www.linkedin.com/in/danielsantoscorcoles/) 
+**-Daniel Álvaro Santos Córcoles.** CEO of the company and creator of the project, responsible for the final decisions and marketing as well through the private channel of Mr. Santos.[ https://www.linkedin.com/in/danielsantoscorcoles/](https://www.linkedin.com/in/danielsantoscorcoles/) 
 
-**2. Shuberth Chi Balam,** COO, involved from the beginning, in charge of connections between employees and general management of the company, agreements and deals with other companies or with users.[ https://www.linkedin.com/in/shuberth-chi-balam/](https://www.linkedin.com/in/shuberth-chi-balam/) 
+**-Shuberth Chi Balam,** COO, involved from the beginning, in charge of connections between employees and general management of the company, agreements and deals with other companies or with users.[ https://www.linkedin.com/in/shuberth-chi-balam/](https://www.linkedin.com/in/shuberth-chi-balam/) 
 
-**3.- Facundo Arguello.** CTO of the company and responsible for all final technological decisions https://[www.linkedin.com/in/facundomartinarg/](http://www.linkedin.com/in/facundomartinarg/) 
+**-Facundo Arguello.** CTO of the company and responsible for all final technological decisions https://[www.linkedin.com/in/facundomartinarg/](http://www.linkedin.com/in/facundomartinarg/) 
 
-**4. Sara Santos Córcoles.** CMO of the company, also involved from the beginning, in charge of customer service, buyers and distribution of the project's marketing information.[ https://www.linkedin.com/in/sarasc9/](https://www.linkedin.com/in/sarasc9/) 
+**-Sara Santos Córcoles.** CMO of the company, also involved from the beginning, in charge of customer service, buyers and distribution of the project's marketing information.[ https://www.linkedin.com/in/sarasc9/](https://www.linkedin.com/in/sarasc9/) 
 
-**5. Esteban Díaz Zoreda,** CFO, involved from the beginning, in charge of the general administration of the company and responsible for the legal contacts and legal management of the company.[ https://www.linkedin.com/in/esteban-diaz-6a0168196/](https://www.linkedin.com/in/esteban-diaz-6a0168196/) 
+**-Esteban Díaz Zoreda,** CFO, involved from the beginning, in charge of the general administration of the company and responsible for the legal contacts and legal management of the company.[ https://www.linkedin.com/in/esteban-diaz-6a0168196/](https://www.linkedin.com/in/esteban-diaz-6a0168196/) 
 
-**6. Jonathan Josué Álvarez Aguirre,** CCO, involved from the beginning, in charge of connecting the brand image and reputation of the company.[ https://www.linkedin.com/in/jonathan-alvarez-592816bb/](https://www.linkedin.com/in/jonathan-alvarez-592816bb/) 
+**-Jonathan Josué Álvarez Aguirre,** CCO, involved from the beginning, in charge of connecting the brand image and reputation of the company.[ https://www.linkedin.com/in/jonathan-alvarez-592816bb/](https://www.linkedin.com/in/jonathan-alvarez-592816bb/) 
 
-**7. Fernando Molina,** in charge of international commercial relations, specializes in relations with China.[ https://www.linkedin.com/in/fernandomolinapinos/](https://www.linkedin.com/in/fernandomolinapinos/) 
+**-Fernando Molina,** in charge of international commercial relations, specializes in relations with China.[ https://www.linkedin.com/in/fernandomolinapinos/](https://www.linkedin.com/in/fernandomolinapinos/) 
 
-**8. Andrea Stefania Blanco Acuña -** Community Manager. Member of the marketing team, in charge of managing communities and content in the company's social media channels.[ https://www.linkedin.com/in/andrea-stefania-blanco-acu%C3%B1a-5b912791](https://www.linkedin.com/in/andrea-stefania-blanco-acu%C3%B1a-5b912791) 
+**-Andrea Stefania Blanco Acuña -** Community Manager. Member of the marketing team, in charge of managing communities and content in the company's social media channels.[ https://www.linkedin.com/in/andrea-stefania-blanco-acu%C3%B1a-5b912791](https://www.linkedin.com/in/andrea-stefania-blanco-acu%C3%B1a-5b912791) 
 
-**9.- Ramesh Thangapandian -** Full Stack & Blockchain Developer[ https://www.linkedin.com/in/rameshthangapandian](https://www.linkedin.com/in/rameshthangapandian) 
+**-Ramesh Thangapandian -** Full Stack & Blockchain Developer[ https://www.linkedin.com/in/rameshthangapandian](https://www.linkedin.com/in/rameshthangapandian) 
 
-**10.-Luis Martin Hormanstorfer -** Blockchain Development Manager[ https://www.linkedin.com/in/martin-hormanstorfer-810560aa/](https://www.linkedin.com/in/martin-hormanstorfer-810560aa/) 
+**-Luis Martin Hormanstorfer -** Blockchain Development Manager[ https://www.linkedin.com/in/martin-hormanstorfer-810560aa/](https://www.linkedin.com/in/martin-hormanstorfer-810560aa/) 
 
-**11.- Sergio Alejandro Trejo Cuxim -** Front-end Developer[ https://www.linkedin.com/in/trejocode/](https://www.linkedin.com/in/trejocode/) 
+**-Sergio Alejandro Trejo Cuxim -** Front-end Developer[ https://www.linkedin.com/in/trejocode/](https://www.linkedin.com/in/trejocode/) 
 
-**12. Kevin Quino -** UX & UI Designer[ https://www.linkedin.com/in/kevin-salgado-quino-447a09140/](https://www.linkedin.com/in/kevin-salgado-quino-447a09140/)
+**-Kevin Quino -** UX & UI Designer[ https://www.linkedin.com/in/kevin-salgado-quino-447a09140/](https://www.linkedin.com/in/kevin-salgado-quino-447a09140/)
 
 ## **What are Woonkly's social networks?**
 
@@ -76,12 +76,6 @@ Woonkly has a crypto wallet and crypto exchange license, granted by the European
 
 Woonkly wants to comply with all the regulations established by the organizations and that is why, within its products and / or services, it requires the KYC to be able to use them
 
-### **I have found the WNK \(WOONK\) and WOONK \(WOONKLY\) tokens. What are they?**
-
-These are old tokens of the company. These tokens have no value. All tokens were voided and their holders were sent the only valid token the WOOP.
-
-**ATTENTION. THERE ARE SCAMERS AND SCAMERS TRYING TO SELL SUCH TOKENS, DON'T FALL INTO SCAMS, THOSE TOKENS ARE NOT VALID FOR THE COMPANY.**
-
 ### **How can I be a NODE?**
 
 At the moment we do not have any open list to sign up to be a node, when it is necessary for users to become nodes, we will make an official notice in our RRSS and a specific seminar to indicate how to proceed to be a node.
@@ -106,7 +100,34 @@ VALID DOCUMENTS:
 -Supply bills \(electricity, water, internet, gas or telephone\)  
 -Account statements  
 -Tax return  
--State documents \(such as the registry\)  
+-State documents \(such as the registry\)
+
+### Which countries cannot pass KYC on Woonkly?
+
+Albania   
+Afghanistan  
+The Bahamas   
+Barbados   
+Botswana   
+Cambodia   
+Democratic People’s Republic of Korea \(DPRK\)   
+Ghana   
+Iran   
+Iraq   
+Jamaica   
+Mauritius   
+Myanmar   
+Nicaragua   
+Pakistan   
+Panama   
+Syria   
+Trinidad and Tobago   
+Uganda   
+Vanuatu   
+Yemen   
+Zimbabwe   
+Iceland   
+Mongolia  
 
 
 **If I am missing a document or it is expired or I do not meet the requirements, can I pass the KYC?**  
@@ -152,5 +173,15 @@ Before accepting a shipment, double check everything is correct.
 WOOP is for sale on various exchanges and swaps. We have tutorials on our YouTube channel that show you how to acquire them in different ways.  
 
 
-## **In defi.finance** 
+### Where can I see the price of WOOP?
+
+You can check the price of WOOP at any time on defi.finance, coinmarketcap, swaps where WOOP is available and exchanges that have WOOP listed.
+
+### How do I add wDEFI to my metamask?
+
+You must hit add token! on the BSC network and paste the following contract: 0x291083c8aedfc3cd0384494e1fcdcf2067d28d3e
+
+### What do I do if I can't find a solution to my problem?
+
+Any problem or doubt that cannot be solved with this document or with our tutorials should send an email to soporte@woonkly.com indicating: -Reason for the message \(Problem\) -Wallet -Hash in the case of a problem with any of the messages. -Photos or videos of the problem
 

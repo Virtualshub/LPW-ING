@@ -41,7 +41,7 @@ In this playlist you can find tutorials of all kinds related to Woonkly. From ´
 
 If you want to see all the videos in this section, you can enter the YouTube channel mentioned above or, in the video below, click on the upper right, in the section with three lines and a play, that section indicates that there are more videos and that this exposed video is part of a playlist. There you can find the rest of the videos and play them without leaving our livepaper.
 
-[https://www.youtube.com/watch?list=PLxO9Gq7b8uNi3fNS4bsRX78l5jF1eU1aV&v=O9GSsedhT2Y&feature=emb\_imp\_woyt](https://www.youtube.com/watch?list=PLxO9Gq7b8uNi3fNS4bsRX78l5jF1eU1aV&v=O9GSsedhT2Y&feature=emb_imp_woyt)
+[https://www.youtube.com/watch?list=PLxO9Gq7b8uNi3fNS4bsRX78l5jF1eU1aV&v=O9GSsedhT2Y&feature=emb\_imp\_woyt](https://www.youtube.com/watch?v=iWxgzxWIIUI&list=PLxO9Gq7b8uNjU62k8kZQh6khg-ubVFTKX)
 
   
 

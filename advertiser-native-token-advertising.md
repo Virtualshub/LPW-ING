@@ -9,6 +9,6 @@ From the moment a new token is listed in Woonkly, users will be able to, apart f
 To list the token of your project in Woonkly we will enable a form on May 1, 2021.
 
 {% hint style="info" %}
-At first, only tokens from the Binance Smart Chain network will be listed. Woonkly plans to integrate the Ethereum Network, the Polkadot Network, and the Bitcoin RSK Network in the near future.  
+At first, only tokens from the Binance Smart Chain network will be listed. Woonkly plans to integrate more networks in the near future.  
 {% endhint %}
 
