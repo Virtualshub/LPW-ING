@@ -17,34 +17,35 @@ March 2021:**
 **April 2021:**
 
 * Listed on Gate.io
-* Start Woonkly Advertising Campaign with $ 150,000 \(US dollars\).
-* First Call for Startups from the Woonkly Accelerator.
+* Coinfabrik, Certik and Haken External Swap and SWAP Crosschain ERC20/BEP20 audits.
 
 **May 2021:**
 
-* Woonkly.com internal SWAP \(AMM\) launch between BNB / WOOP pair.
-* Launch Stake Panel Woonkly.
-* Result of the Coinfabrik, Certik and Haken audits of the SWAP Crosschain ERC20 / BEP20.
-* Campaign to attract advertisers from the Crypto world.
-* Start Woonkly Advertising Campaign with $ 500,000 \(US dollars\).
+* Launch of Woonkly.com internal SWAP \(AMM\) between BNB/WOOP pair. 
+* Launch of Woonkly Stake Panel. 
+* Start of audits for defi.finance. Release V1 of defi.finance. 
+* Listings on at least 3 different exchanges.
 
 **June 2021:**
 
-* Launch of the Woonkly Decentralized Social Network with basic functions.
-* Publication of the first accelerated Startups in the Woonkly Accelerator.
+* Pre-launch of Woonkly NFT Social Network with basic functions.
+* V2 version of defi.finance \(version compliant with European regulations\). 
+* Attendance and organisation of AGORA blockchain event in Dubai.
+* Partnership with a cyber-security company for auditing and control of Woonkly services.
 
 **July 2021:**
 
-* Connection of our AMM protocol with different decentralized liquidity protocols such as [1inch.exchange](https://1inch.exchange/).
-* Launch Decentralized Social Network v2 \(advanced functions\).
-* Woonkly external SWAP \(AMM\) launch between any pair of ERC20 and BEP20 networks with Pools of liquidity.
-* Beginning of the development of the Woonkly decentralized government protocols.
+* Connection of our AMM protocol with different decentralised liquidity protocols such as 1inch.exchange. 
+* Launch NFT v1 Social Network. 
+* Launch of Woonkly's external SWAP \(AMM\) between any pair of the ERC20 and BEP20 networks with Liquidity Pools. 
+* Start of development of Woonkly's decentralised governance protocols.
 
-**October 2021:**
+**From August to October:**
 
-* Regulated DEX Crosschain & Stable Coin Launch. \(These times may change as we are looking to be the first DEX Crosschain & Stable coin regulated by the European Union\).
-* Start of the development of the Woonkly Artificial Intelligence protocols.
-* RUTA publication for 2022.
+* Launch of DEX Crosschain & Stable Coin \(these timings may change as we are looking to be the first DEX Crosschain & Stable coin to comply with the regulations imposed by the European Union\). 
+* Start of development of Woonkly's Artificial Intelligence protocols.
+* Publication of roadmap for the 2022. 
+* Publication of the bases and dates of the Woonkly accelerator.
 
 {% hint style="info" %}
 Our road map in live. You will be able to visit it every month and find new functionalities and projects that Woonkly carries out and will carry out.
