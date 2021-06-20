@@ -4,8 +4,6 @@ description: From idea to execution
 
 # Woonkly Story
 
-**Woonkly was born from the idea of ​​sharing the advertising capital directly with the audience that consumes the ads, eliminating the intermediaries \(the media\) who normally make 100% of the profit.**
-
 The idea was born in 2014 and was consolidated in January 2018 when it won the acceleration award of the "Plug & Play" accelerator in Mexico.
 
 From the acceleration, Woonkly was integrated with the world of Blockchain.
