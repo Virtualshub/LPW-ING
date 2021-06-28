@@ -66,7 +66,7 @@
 
 * [TUTORIALS](tutorials.md)
 * [Frequently Asked Questions](frequently-asked-questions-1.md)
-* [RRSS Officials](rrss-officials.md)
+* [Official Social Media](rrss-officials.md)
 
 ## Woonkly on a technical level
 

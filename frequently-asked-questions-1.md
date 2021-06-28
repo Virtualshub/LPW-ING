@@ -6,7 +6,7 @@ Woonkly is an Estonian technology company, founded by Spanish entrepreneurs, spe
 
 ## **Who works at Woonkly?**
 
-The workforce is growing day by day so the data displayed here may not be up to date. In any case, you can see our workers by searching for the company "woonkly" in linkedin  
+The workforce is growing day by day so the data displayed here may not be up to date. In any case, you can see our workers by searching for the company "Woonkly" on Linkedin.  
 ****
 
 **-Daniel Álvaro Santos Córcoles.** CEO of the company and creator of the project, responsible for the final decisions and marketing as well through the private channel of Mr. Santos.[ https://www.linkedin.com/in/danielsantoscorcoles/](https://www.linkedin.com/in/danielsantoscorcoles/) 
@@ -35,27 +35,30 @@ The workforce is growing day by day so the data displayed here may not be up to 
 
 ## **What are Woonkly's social networks?**
 
-Facebook Url: https://www.facebook.com/woonkly/
+**Facebook Url: https://www.facebook.com/woonkly/**
 
-Twitter Url: https://twitter.com/woonklyes
+**Twitter Url: https://twitter.com/WoonklyEN**
 
-Youtube Url: https://www.youtube.com/c/Woonkly
+**Youtube Url:** [**https://www.youtube.com/c/Woonkly**](https://www.youtube.com/c/Woonkly)
 
-Instagram: https://www.instagram.com/woonklyes/
+**Instagram: https://www.instagram.com/woonkly/**
 
-Telegram Comunidad: https://t.me/woonkly
+**Telegram Community: https://t.me/WOONKLYEN**
 
-Telegram Difusión: https://t.me/WOONKLY\_ES
+**Telegram Broadcast: https://t.me/Woonkly\_EN**
 
-LinkedIn: https://www.linkedin.com/company/28134161/admin/
+**Medium:** [**https://woonkly.medium.com/**](https://woonkly.medium.com/)
 
-Githhub: https://github.com/Woonkly
+**Reddit:** [**https://www.reddit.com/user/Woonkly/**](https://www.reddit.com/user/Woonkly/) ****
 
-Livepaper Url: https://whitepaper.woonkly.com/livepaper/
+**Githhub:** [**https://github.com/Woonkly**](https://github.com/Woonkly)
 
-Goingecko: https://www.coingecko.com/es/monedas/woonkly-power
+**Livepaper Url: https://whitepaper.woonkly.com/livepaper-ing/**
 
-Coinmarketcap: https://coinmarketcap.com/es/currencies/woonkly-power/
+**Coingecko: https://www.coingecko.com/es/monedas/woonkly-power**
+
+**Coinmarketcap: https://coinmarketcap.com/es/currencies/woonkly-power/**  
+
 
 ## **What products / services does Woonkly have?**
 
