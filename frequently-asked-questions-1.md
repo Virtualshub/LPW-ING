@@ -11,7 +11,7 @@ The workforce is growing day by day so the data displayed here may not be up to 
 
 **-Daniel Álvaro Santos Córcoles.** CEO of the company and creator of the project, responsible for the final decisions and marketing as well through the private channel of Mr. Santos.[ https://www.linkedin.com/in/danielsantoscorcoles/](https://www.linkedin.com/in/danielsantoscorcoles/) 
 
-**-Shuberth Chi Balam,** COO, involved from the beginning, in charge of connections between employees and general management of the company, agreements and deals with other companies or with users.[ https://www.linkedin.com/in/shuberth-chi-balam/](https://www.linkedin.com/in/shuberth-chi-balam/) 
+**-Shuberth Chi Balam.** COO, involved from the beginning, in charge of connections between employees and general management of the company, agreements, and deals with other companies or users.[ https://www.linkedin.com/in/shuberth-chi-balam/](https://www.linkedin.com/in/shuberth-chi-balam/) 
 
 **-Facundo Arguello.** CTO of the company and responsible for all final technological decisions https://[www.linkedin.com/in/facundomartinarg/](http://www.linkedin.com/in/facundomartinarg/) 
 
