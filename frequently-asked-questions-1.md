@@ -79,16 +79,16 @@ Woonkly has a crypto wallet and crypto exchange license, granted by Estonia, a c
 
 Woonkly wants to comply with all the regulations established by the organizations and that is why, within its products and / or services, it requires the KYC to be able to use them
 
-### **How can I be a NODE?**
+## **How can I be a NODE?**
 
-At the moment, we do not have any open list to sign up to be a node. When this changes, it is necessary for users to become nodes, we will make an official notice in our RRSS and a specific seminar to indicate how to proceed to be a node.
+At the moment, we do not have any available list to sign up to be a node. When this changes, and it is necessary for users to become nodes, we will announce our social media channels and a specific seminar on becoming a Woonkly node.
 
-### **VALID DOCUMENTS FOR KYC \(APP.WOONKLY\):**
+## **What are the valid documents for KYC? \(app.woonkly\)?**
 
 **Identification:**
 
 -ID card or passport  
--For the UK, Canada and the US the driver's license will be valid \(For the rest of the countries, NO\)
+-For the UK, Canada, and the US the driver's license will be valid \(For the rest of the countries, it's not\)
 
 **Proof of address:**
 
@@ -105,7 +105,7 @@ VALID DOCUMENTS:
 -Tax return  
 -State documents \(such as the registry\)
 
-### Which countries cannot pass KYC on Woonkly?
+## Which countries cannot pass KYC on Woonkly?
 
 Albania   
 Afghanistan  
@@ -130,18 +130,15 @@ Vanuatu
 Yemen   
 Zimbabwe   
 Iceland   
-Mongolia  
+Mongolia
 
+## **If I am missing a document or it is expired or I do not meet the requirements, can I pass the KYC?**
 
-**If I am missing a document or it is expired or I do not meet the requirements, can I pass the KYC?**  
+No, you must comply with the requirements required to allow you to pass the KYC and access the platform without problems in the future.
 
+## **How to add the BSC network and the WOOP?**
 
-No, you must comply with the requirements that are required of us to allow you to pass the KYC and access the platform without problems in the future.  
-
-
-## **How to add the BSC network an the WOOP?**
-
-You can step by step how to add the BSC network and the WOOP token to Metamask: https://youtu.be/15jp4\_D-M8s
+You can follow this tutorial on how to add the BSC network and the WOOP token to Metamask: https://youtu.be/15jp4\_D-M8s
 
 The data you need are the following:
 
@@ -152,39 +149,37 @@ The data you need are the following:
 -Symbol: BNB  
 -Block Explorer URL: https://bscscan.com
 
-Woop token contract data
+WOOP token contract data
 
 -CONTRACT: 0x8b303d5bbfbbf46f1a4d9741e491e06986894e18  
 -SYMBOL: WOOP  
 -DECIMALS: 18
 
-## **Why do my earnings disappear when I put more token in defi.finance?**
+## **Why do my earnings disappear when I put more tokens in defi.finance?**
 
-When the amount of woops in stake increases, it is automatically harvested and your wDEFI earnings go directly to the wallet from which I stake.
+When the amount of WOOP in stake increases, it is automatically harvested and your wDEFI earnings go directly to the wallet from which you stake.
 
-Check that you added the wDEFI contract correctly.
+Remember to check that you added the wDEFI contract correctly.
 
 ## **What happens if I make a mistake and send tokens to the wrong address?**
 
-You should always check several times that everything is being done correctly. If you send WOOPS or any token to a contract address or to another address, they cannot be recovered and the company holds us responsible for their loss.
+You should always check several times that everything is being done correctly. If you send WOOP or any token to a contract address or to another address, they cannot be recovered and the company is not responsible for their loss.
 
-Before accepting a shipment, double check everything is correct.  
-****
+Before accepting a shipment, double check everything is correct.
 
 ## **Where can I buy WOOP?**
 
-WOOP is for sale on various exchanges and swaps. We have tutorials on our YouTube channel that show you how to acquire them in different ways.  
+WOOP is for sale on various exchanges and swaps. We have tutorials on our YouTube channel that show you how to acquire them in different ways.
 
-
-### Where can I see the price of WOOP?
+## Where can I see the price of WOOP?
 
 You can check the price of WOOP at any time on defi.finance, coinmarketcap, swaps where WOOP is available and exchanges that have WOOP listed.
 
-### How do I add wDEFI to my metamask?
+## How do I add wDEFI to my Metamask?
 
 You must hit add token! on the BSC network and paste the following contract: 0x291083c8aedfc3cd0384494e1fcdcf2067d28d3e
 
-### What do I do if I can't find a solution to my problem?
+## What do I do if I can't find a solution to my problem?
 
-Any problem or doubt that cannot be solved with this document or with our tutorials should send an email to soporte@woonkly.com indicating: -Reason for the message \(Problem\) -Wallet -Hash in the case of a problem with any of the messages. -Photos or videos of the problem
+Any problem or doubt that cannot be solved with this document or with our tutorials should be  sent to soporte@woonkly.com indicating: -Reason for the message \(Problem\) -Wallet -Hash in the case of a problem with any of the messages. -Photos or videos of the problem
 
