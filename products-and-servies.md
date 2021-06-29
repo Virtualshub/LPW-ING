@@ -2,7 +2,7 @@
 description: WOONKLY SERVICES AND PRODUCTS
 ---
 
-# Products and Servies
+# Products and Services
 
 **WOONKLY SERVICES AND PRODUCTS**
 

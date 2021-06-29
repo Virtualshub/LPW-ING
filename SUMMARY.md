@@ -85,7 +85,7 @@
 
 * [Crypto Wallet Licenses/ Crypto Exchange UE](crypto-wallet-licenses-crypto-exchange-ue.md)
 * [Terms and Conditions](terms-and-conditions.md)
-* [Products and Servies](products-and-servies.md)
+* [Products and Services](products-and-servies.md)
 * [Privacy Policy](privacy-policy.md)
 * [Cookies Policy](legal-provision.md)
 

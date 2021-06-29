@@ -139,9 +139,9 @@ Mongolia
 No, you must comply with the requirements that are required of us to allow you to pass the KYC and access the platform without problems in the future.  
 
 
-## **ADD BSC NETWORK AND TOKEN WOOP**
+## **How to add the BSC network an the WOOP?**
 
-I am sending you a video made by a member of the community that explains step by step how to add the BSC network and the Woop token to Metamask: https://youtu.be/15jp4\_D-M8s
+You can step by step how to add the BSC network and the WOOP token to Metamask: https://youtu.be/15jp4\_D-M8s
 
 The data you need are the following:
 
