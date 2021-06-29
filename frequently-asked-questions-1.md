@@ -62,11 +62,11 @@ The workforce is growing day by day so the data displayed here may not be up to 
 
 ## **What products / services does Woonkly have?**
 
-You can see the updated section in this livepaper in point 3 of woonkly products
+Check section 3 of this Livepaper to learn more about all our products and services: [https://whitepaper.woonkly.com/livepaper-ing/woonkly-products-1](https://whitepaper.woonkly.com/livepaper-ing/woonkly-products-1)
 
 ## **Where can I find the operating licenses?**
 
-Woonkly has a crypto wallet and crypto exchange license, granted by the European Union.
+Woonkly has a crypto wallet and crypto exchange license, granted by Estonia, a country member of the European Union.
 
 {% embed url="https://mtr.mkm.ee/taotluse\_tulemus/547860?backurl=%40juriidiline\_isik\_show%3Fid%3D265533" %}
 
