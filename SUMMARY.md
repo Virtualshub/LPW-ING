@@ -64,7 +64,7 @@
 
 ---
 
-* [TUTORIALS](tutorials.md)
+* [Tutorials](tutorials.md)
 * [Frequently Asked Questions](frequently-asked-questions-1.md)
 * [Official Social Media](rrss-officials.md)
 
@@ -77,7 +77,7 @@
 * [Woonkly Architecture](woonkly-architecture.md)
 * [Certik Audit](certik-audit.md)
 * [Hacken Audit](hacken-audit.md)
-* [Audit Coin Fabrik](audit-coin-fabrik.md)
+* [Coin Fabrik Audit](audit-coin-fabrik.md)
 
 ## Legal dispositions <a id="legal-disposiciones"></a>
 

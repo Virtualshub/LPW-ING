@@ -2,7 +2,7 @@
 description: Woonkly Security Audit (DEX & STAKE)
 ---
 
-# Audit Coin Fabrik
+# Coin Fabrik Audit
 
 ![](.gitbook/assets/cfa.png)
 
