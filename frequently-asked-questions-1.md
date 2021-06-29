@@ -6,7 +6,7 @@ Woonkly is an Estonian technology company founded by Spanish entrepreneurs. It s
 
 ## **Who works at Woonkly?**
 
-The workforce is growing day by day so the data displayed here may not be up to date. In any case, you can see our workers by searching for the company "Woonkly" on Linkedin.  
+Our team is growing day by day so the data displayed here may not be up to date. In any case, you can see our workers by searching for the company "Woonkly" on Linkedin.  
 ****
 
 **-Daniel Álvaro Santos Córcoles -** CEO of the company and creator of the project. Responsible for the final decisions and marketing of the company, also from his youtube channels Mr. Santos and Club emprendedores.[ https://www.linkedin.com/in/danielsantoscorcoles/](https://www.linkedin.com/in/danielsantoscorcoles/) 
