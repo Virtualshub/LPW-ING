@@ -40,16 +40,19 @@ March 2021:**
 * Launch of Woonkly's external SWAP \(AMM\) between any pair of the ERC20 and BEP20 networks with Liquidity Pools. 
 * Start of development of Woonkly's decentralised governance protocols.
 
-**October:**
+**September 2021:**
 
 * Launch of Version V 2 of defi.finance with its own liquidity router.
+
+**October 2021:**
+
 * Launch of DEX Crosschain & Stable Coin \(these timings may change as we are looking to be the first DEX Crosschain & Stable coin to comply with the regulations imposed by the European Union\). 
 * Start of development of Woonkly's Artificial Intelligence protocols.
 * Publication of roadmap for the 2022. 
 * Publication of the bases and dates of the Woonkly accelerator.
 
 {% hint style="info" %}
-Our road map in live. You will be able to visit it every month and find new functionalities and projects that Woonkly carries out and will carry out.
+Our road map is alive. You will be able to visit it every month and find new functionalities and projects that Woonkly carries out and will carry out.
 {% endhint %}
 
 
