@@ -31,13 +31,11 @@ Our team is growing day by day so the data displayed here may not be up to date.
 
 **-Sergio Alejandro Trejo Cuxim -** Front-end Developer[ https://www.linkedin.com/in/trejocode/](https://www.linkedin.com/in/trejocode/) 
 
-**-Kevin Quino -** UX & UI Designer[ https://www.linkedin.com/in/kevin-salgado-quino-447a09140/](https://www.linkedin.com/in/kevin-salgado-quino-447a09140/)
+**-Kevin Quino -** UX & UI Designer[   
+https://www.linkedin.com/in/kevin-salgado-quino-447a09140/](https://www.linkedin.com/in/kevin-salgado-quino-447a09140/)
 
 **Javier Herrador  -** Project Manager - Backend Dev  
 ****[**https://www.linkedin.com/in/javierherrador/**](https://www.linkedin.com/in/javierherrador/)
-
-**Luis Martin Hormanstorfer-** FullStack Senior Developer.   
-****[**https://www.linkedin.com/in/martin-hormanstorfer-810560aa/**](https://www.linkedin.com/in/martin-hormanstorfer-810560aa/)
 
 **Bojan Terzic-** Blockchain Developer   
 ****[**https://www.linkedin.com/in/bojan-terzic-4070b9216/**](https://www.linkedin.com/in/bojan-terzic-4070b9216/)  
