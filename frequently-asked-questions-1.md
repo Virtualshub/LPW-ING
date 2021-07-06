@@ -33,6 +33,21 @@ Our team is growing day by day so the data displayed here may not be up to date.
 
 **-Kevin Quino -** UX & UI Designer[ https://www.linkedin.com/in/kevin-salgado-quino-447a09140/](https://www.linkedin.com/in/kevin-salgado-quino-447a09140/)
 
+**Javier Herrador  -** Project Manager - Backend Dev  
+****[**https://www.linkedin.com/in/javierherrador/**](https://www.linkedin.com/in/javierherrador/)
+
+**Luis Martin Hormanstorfer-** FullStack Senior Developer.   
+****[**https://www.linkedin.com/in/martin-hormanstorfer-810560aa/**](https://www.linkedin.com/in/martin-hormanstorfer-810560aa/)
+
+**Bojan Terzic-** Blockchain Developer   
+****[**https://www.linkedin.com/in/bojan-terzic-4070b9216/**](https://www.linkedin.com/in/bojan-terzic-4070b9216/)  
+  
+**Juan Gonzalez -**  AWS Infraestructure  
+[**https://www.linkedin.com/in/juanma-gonzalez-a9934137/**](https://www.linkedin.com/in/juanma-gonzalez-a9934137/)
+
+**Bryam Yhair Pérez Diaz -**  Blockchain Backend  
+****[**https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/**](https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/)\*\*\*\*
+
 ## **What are Woonkly's social networks?**
 
 **Facebook Url: https://www.facebook.com/woonkly/**
