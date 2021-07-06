@@ -35,10 +35,7 @@ March 2021:**
 
 **July 2021:**
 
-* Connection of our AMM protocol with different decentralised liquidity protocols such as 1inch.exchange. 
 * Launch NFT v1 Social Network. 
-* Launch of Woonkly's external SWAP \(AMM\) between any pair of the ERC20 and BEP20 networks with Liquidity Pools. 
-* Start of development of Woonkly's decentralised governance protocols.
 
 **September 2021:**
 
