@@ -6,7 +6,7 @@
 * [Woonkly Products](woonkly-products-1/README.md)
   * [Blockchain-based Startup Accelerator](woonkly-products-1/blockchain-based-startup-accelerator.md)
   * [DEFI.FINANCE V1.2](woonkly-products-1/defi.finance-v1.2.md)
-  * [Decentralized Social Network \(In Process\)](woonkly-products-1/untitled-1.md)
+  * [Decentralized Social Network \(In Progress\)](woonkly-products-1/untitled-1.md)
   * [NFT.FINANCE](woonkly-products-1/nft.finance.md)
 * [Stake Pool](stake-pool.md)
 * [Revenue Automation](revenue-automation.md)
@@ -66,7 +66,7 @@
 
 * [Tutorials](tutorials.md)
 * [Frequently Asked Questions](frequently-asked-questions-1.md)
-* [Official Social Media](rrss-officials.md)
+* [Official Social Media](social-media.md)
 
 ## Woonkly on a technical level
 

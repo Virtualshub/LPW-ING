@@ -17,7 +17,7 @@ description: >-
 
 In Defi.finance users can swap, add liquidity, farm and stake.  
   
-Defi.finance has its own inflation token called wDEFI which is the reward token for Stake and Farm users.  
+Defi.finance has its own inflationary token called wDEFI which is the reward token for Stake and Farm users.  
   
 **Commissions**  
 The Defi.finance swap has a low commission compared to what exists today in the market, with the particularity that 100% of the commission in this V1.2 is "burned" or used to buy back tokens that will be deleted from the system with the objective of circumventing inflation.  

@@ -2,7 +2,7 @@
 description: Giving power back to users
 ---
 
-# Decentralized Social Network \(In Process\)
+# Decentralized Social Network \(In Progress\)
 
 Massive Social Networks today have full control over user data, which they use for their own purposes without the explicit consent of the consumer.
 
