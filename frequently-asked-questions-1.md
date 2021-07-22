@@ -98,7 +98,7 @@ Woonkly wants to comply with all the regulations established by the organization
 
 At the moment, we do not have any available list to sign up to be a node. When this changes, and it is necessary for users to become nodes, we will announce our social media channels and a specific seminar on becoming a Woonkly node.
 
-## **What are the valid documents for KYC? \(app.woonkly\)?**
+## **What are the valid documents for KYC? \(Valid for all Woonkly Products\)**
 
 **Identification:**
 
