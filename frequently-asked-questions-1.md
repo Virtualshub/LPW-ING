@@ -88,11 +88,9 @@ Woonkly has a crypto wallet and crypto exchange license, granted by Estonia, a c
 ## **Why is it necessary to pass a KYC?**
 
   
-****The KYC is a process that can be somewhat tedious, but necessary and required today by the authorities to avoid money laundering, or the financing of criminal activities. 
+****In order to use our services, all users must pass an identity accreditation process KYC \("Know Your Customer"\), this in order to comply with European and international directives against money laundering or financing criminal activities.
 
-The KYC or "Know Your Customer" is a process of verification of the identity of the user. To pass the identity verification process, you will need your ID card or passport, a device with a camera for the facial recognition process, and an official document or utility bill that proves your address \(you can see valid KYC documents in the next question\)
-
-Woonkly wants to comply with all the regulations established by the organizations and that is why, within its products and / or services, it requires the KYC to be able to use them
+The KYC or "Know Your Customer" is a verification process which has the purpose of proving the identity of a user, as well as the origin of their funds. Within this process, users should be aware that identification and residence documentation, personal data, and in some cases additional documentation may be requested.
 
 ## **How can I be a NODE?**
 
