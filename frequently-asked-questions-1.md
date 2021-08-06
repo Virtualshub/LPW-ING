@@ -92,13 +92,7 @@ Woonkly has a crypto wallet and crypto exchange license, granted by Estonia, a c
 
 The KYC or "Know Your Customer" is a verification process which has the purpose of proving the identity of a user, as well as the origin of their funds. Within this process, users should be aware that identification and residence documentation, personal data, and in some cases additional documentation may be requested.
 
-## **How can I be a NODE?**
-
-At the moment, we do not have any available list to sign up to be a node. When this changes, and it is necessary for users to become nodes, we will announce our social media channels and a specific seminar on becoming a Woonkly node.
-
 ## **What are the valid documents for KYC? \(Valid for all Woonkly Products\)**
-
-\*\*\*\*
 
 1. Current ID or Passport \(Driver License is not valid, only for UK\). 
 2. Prove of address, no older than 3 months \(Prove of address must contains: Same name as the ID, valid address, receipt/bill of: Electricity, gas, water, internet home services, bank statement, direct debit receipt, census, tax payment of the country\).  NOTE: 1. invoices for common services such as amazon, workshops, mailings, and others, are not valid. 2. Leasing contract \(house/department\) only if it has a notary's signature. 
@@ -133,7 +127,15 @@ Mongolia
 
 ## **If I am missing a document or it is expired or I do not meet the requirements, can I pass the KYC?**
 
-No, you must comply with the requirements required to allow you to pass the KYC and access the platform without problems in the future.
+No, the documents that you provide to us, always must be valid.
+
+## Can I use the services without passing a KYC?
+
+ No, all users who wish to use our services must go through the identification process.
+
+## **How can I be a NODE?**
+
+At the moment, we do not have any available list to sign up to be a node. When this changes, and it is necessary for users to become nodes, we will announce our social media channels and a specific seminar on becoming a Woonkly node.
 
 ## **How to add the BSC network and the WOOP?**
 
