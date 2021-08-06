@@ -98,25 +98,11 @@ At the moment, we do not have any available list to sign up to be a node. When t
 
 ## **What are the valid documents for KYC? \(Valid for all Woonkly Products\)**
 
-**Identification:**
+\*\*\*\*
 
--ID card or passport  
--For the UK, Canada, and the US the driver's license will be valid \(For the rest of the countries, it's not\)
-
-**Proof of address:**
-
-MANDATORY REQUIREMENTS:
-
--It must be in the name of the interested party  
--Must contain an issue date of less than 3 months  
--It must contain the address of the interested party  
-  
-VALID DOCUMENTS:
-
--Supply bills \(electricity, water, internet, gas or telephone\)  
--Account statements  
--Tax return  
--State documents \(such as the registry\)
+1. Current ID or Passport \(Driver License is not valid, only for UK\). 
+2. Prove of address, no older than 3 months \(Prove of address must contains: Same name as the ID, valid address, receipt/bill of: Electricity, gas, water, internet home services, bank statement, direct debit receipt, census, tax payment of the country\).  NOTE: 1. invoices for common services such as amazon, workshops, mailings, and others, are not valid. 2. Leasing contract \(house/department\) only if it has a notary's signature. 
+3. Blacklist countries – Denied access / Grey list countries – Limited access, the person must prove the incoming of his founds.
 
 ## Which countries cannot pass KYC on Woonkly?
 
