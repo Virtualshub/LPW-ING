@@ -139,19 +139,18 @@ At the moment, we do not have any available list to sign up to be a node. When t
 
 ## **How to add the BSC network and the WOOP?**
 
-You can follow this tutorial on how to add the BSC network and the WOOP token to Metamask: https://youtu.be/15jp4\_D-M8s
+You can follow this tutorial on how to add the BSC network and the WOOP token to Metamask: [https://youtu.be/y-1YXDLyxLI](https://youtu.be/y-1YXDLyxLI)
 
 The data you need are the following:
 
--Binance Smart Chain network data  
+Binance Smart Chain network data:  
 ****-Network name: Binance Smart Chain  
 -New RPC URL: https://bsc-dataseed.binance.org/  
 -String ID: 56  
 -Symbol: BNB  
 -Block Explorer URL: https://bscscan.com
 
-WOOP token contract data
-
+WOOP token contract data:  
 -CONTRACT: 0x8b303d5bbfbbf46f1a4d9741e491e06986894e18  
 -SYMBOL: WOOP  
 -DECIMALS: 18
