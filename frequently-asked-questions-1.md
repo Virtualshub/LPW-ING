@@ -27,6 +27,12 @@ https://www.linkedin.com/in/jonathan-alvarez-592816bb/](https://www.linkedin.com
 **-Fernando Molina** - ****In charge of international commercial relations, specializes in relations with China.[  
 https://www.linkedin.com/in/fernandomolinapinos/](https://www.linkedin.com/in/fernandomolinapinos/)
 
+**-Cristina Torres** - Business developer.  
+[https://www.linkedin.com/in/cristina-torres-calatayud-mrics-45a09a16](https://www.linkedin.com/in/cristina-torres-calatayud-mrics-45a09a16)
+
+**-Ignacio De Gispert** - Financial director.  
+[https://www.linkedin.com/in/idegispert](https://www.linkedin.com/in/idegispert)
+
 **-Andrea Blanco** - ****Community Manager. Member of the marketing team, in charge of managing communities and content in the company's social media channels.[  
 https://www.linkedin.com/in/andrea-stefania-blanco-acu%C3%B1a-5b912791](https://www.linkedin.com/in/andrea-stefania-blanco-acu%C3%B1a-5b912791)
 
@@ -54,7 +60,7 @@ https://www.linkedin.com/in/juanma-gonzalez-a9934137/](https://www.linkedin.com/
 **-Bryam Pérez** - ****Blockchain Backend.[  
 https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/](https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/)
 
-**-Jorge Alcazar** - Developer.  
+**-Jorge Alcazar** - Blockchain Developer.  
 [https://www.linkedin.com/in/jorge-alc%C3%A1zar-d%C3%ADaz-8a7988138/](https://www.linkedin.com/in/jorge-alc%C3%A1zar-d%C3%ADaz-8a7988138/)
 
 **-Raquel Tejero** - Administrative assistant.  
