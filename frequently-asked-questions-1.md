@@ -9,41 +9,41 @@ Woonkly is an Estonian technology company founded by Spanish entrepreneurs. It s
 Our team is growing day by day so the data displayed here may not be up to date. In any case, you can see our workers by searching for the company "Woonkly" on Linkedin.  
 ****
 
-**-Daniel Álvaro Santos Córcoles -** CEO of the company and creator of the project. Responsible for the final decisions and marketing of the company, also from his youtube channels Mr. Santos and Club emprendedores.[ https://www.linkedin.com/in/danielsantoscorcoles/](https://www.linkedin.com/in/danielsantoscorcoles/) 
+**-Daniel Santos -** CEO of the company and creator of the project. Responsible for the final decisions and marketing of the company, also from his youtube channels Mr. Santos and Club emprendedores.[ https://www.linkedin.com/in/danielsantoscorcoles/](https://www.linkedin.com/in/danielsantoscorcoles/) 
 
 **-Shuberth Chi Balam -** COO, involved from the beginning, in charge of connections between employees and general management of the company, agreements, and deals with other companies or users.[ https://www.linkedin.com/in/shuberth-chi-balam/](https://www.linkedin.com/in/shuberth-chi-balam/) 
 
 **-Facundo Arguello -** CTO of the company and responsible for all final technological decisions https://[www.linkedin.com/in/facundomartinarg/](http://www.linkedin.com/in/facundomartinarg/) 
 
-**-Sara Santos Córcoles -** CMO of the company, also involved from the beginning, in charge of customer service, buyers, and distribution of the project's marketing information.[ https://www.linkedin.com/in/sarasc9/](https://www.linkedin.com/in/sarasc9/) 
+**-Sara Santos -** CMO of the company, also involved from the beginning, in charge of customer service, buyers, and distribution of the project's marketing information.[ https://www.linkedin.com/in/sarasc9/](https://www.linkedin.com/in/sarasc9/) 
 
-**-Esteban Díaz Zoreda -** CFO, involved from the beginning, in charge of the general administration of the company and responsible for the legal contacts and legal management of the company.[ https://www.linkedin.com/in/esteban-diaz-6a0168196/](https://www.linkedin.com/in/esteban-diaz-6a0168196/) 
+**-Esteban Díaz -** CFO, involved from the beginning, in charge of the general administration of the company and responsible for the legal contacts and legal management of the company.[ https://www.linkedin.com/in/esteban-diaz-6a0168196/](https://www.linkedin.com/in/esteban-diaz-6a0168196/) 
 
-**-Jonathan Josué Álvarez Aguirre -** CCO, involved from the beginning, in charge of connecting the brand image and reputation of the company.[ https://www.linkedin.com/in/jonathan-alvarez-592816bb/](https://www.linkedin.com/in/jonathan-alvarez-592816bb/) 
+**-Jonathan Álvarez -** CCO, involved from the beginning, in charge of connecting the brand image and reputation of the company.[ https://www.linkedin.com/in/jonathan-alvarez-592816bb/](https://www.linkedin.com/in/jonathan-alvarez-592816bb/) 
 
 **-Fernando Molina -** In charge of international commercial relations, specializes in relations with China.[ https://www.linkedin.com/in/fernandomolinapinos/](https://www.linkedin.com/in/fernandomolinapinos/) 
 
-**-Andrea Stefania Blanco Acuña -** Community Manager. Member of the marketing team, in charge of managing communities and content in the company's social media channels.[ https://www.linkedin.com/in/andrea-stefania-blanco-acu%C3%B1a-5b912791](https://www.linkedin.com/in/andrea-stefania-blanco-acu%C3%B1a-5b912791) 
+**-Andrea Blanco -** Community Manager. Member of the marketing team, in charge of managing communities and content in the company's social media channels.[ https://www.linkedin.com/in/andrea-stefania-blanco-acu%C3%B1a-5b912791](https://www.linkedin.com/in/andrea-stefania-blanco-acu%C3%B1a-5b912791) 
 
-**-Ramesh Thangapandian -** Full Stack & Blockchain Developer[ https://www.linkedin.com/in/rameshthangapandian](https://www.linkedin.com/in/rameshthangapandian) 
+**-Ramesh Thangapandian -** Full Stack & Blockchain Developer. [https://www.linkedin.com/in/rameshthangapandian](https://www.linkedin.com/in/rameshthangapandian) 
 
-**-Luis Martin Hormanstorfer -** Blockchain Development Manager[ https://www.linkedin.com/in/martin-hormanstorfer-810560aa/](https://www.linkedin.com/in/martin-hormanstorfer-810560aa/) 
+**-Luis Hormanstorfer -** Blockchain Development Manager.[ https://www.linkedin.com/in/martin-hormanstorfer-810560aa/](https://www.linkedin.com/in/martin-hormanstorfer-810560aa/) 
 
-**-Sergio Alejandro Trejo Cuxim -** Front-end Developer[ https://www.linkedin.com/in/trejocode/](https://www.linkedin.com/in/trejocode/) 
+**-Sergio Trejo -** Front-end Developer.[ https://www.linkedin.com/in/trejocode/](https://www.linkedin.com/in/trejocode/) 
 
-**-Kevin Quino -** UX & UI Designer[   
+**-Kevin Quino -** UX & UI Designer.[   
 https://www.linkedin.com/in/kevin-salgado-quino-447a09140/](https://www.linkedin.com/in/kevin-salgado-quino-447a09140/)
 
-**-Javier Herrador -** Project Manager - Backend Dev  
+**-Javier Herrador -** Project Manager - Backend Dev.  
 ****[https://www.linkedin.com/in/javierherrador/](https://www.linkedin.com/in/javierherrador/)
 
-**-Bojan Terzic -** Blockchain Developer   
+**-Bojan Terzic -** Blockchain Developer.   
 ****[https://www.linkedin.com/in/bojan-terzic-4070b9216/](https://www.linkedin.com/in/bojan-terzic-4070b9216/)  
   
-**-Juan Gonzalez -** AWS Infraestructure  
+**-Juan Gonzalez -** AWS Infraestructure.  
 [https://www.linkedin.com/in/juanma-gonzalez-a9934137/](https://www.linkedin.com/in/juanma-gonzalez-a9934137/)
 
-**-Bryam Yhair Pérez Diaz -** Blockchain Backend  
+**-Bryam Pérez -** Blockchain Backend.  
 ****[https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/](https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/)
 
 ## **What are Woonkly's social networks?**
