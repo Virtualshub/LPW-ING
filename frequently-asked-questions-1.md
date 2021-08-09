@@ -92,29 +92,29 @@ https://www.linkedin.com/in/bryam-yhair-perez-diaz-57098a153/](https://www.linke
 
 ## **What are Woonkly's social networks?**
 
-**Facebook Url: https://www.facebook.com/woonkly/**
+Facebook Url: [https://www.facebook.com/woonkly/](https://www.facebook.com/woonkly/)
 
-**Twitter Url: https://twitter.com/WoonklyEN**
+Twitter Url: [https://twitter.com/WoonklyEN](https://twitter.com/WoonklyEN)
 
-**Youtube Url:** [**https://www.youtube.com/c/Woonkly**](https://www.youtube.com/c/Woonkly)
+Youtube Url: [https://www.youtube.com/c/Woonkly](https://www.youtube.com/c/Woonkly)
 
-**Instagram: https://www.instagram.com/woonkly/**
+Instagram: [https://www.instagram.com/woonkly/](https://www.instagram.com/woonkly/)
 
-**Telegram Community: https://t.me/WOONKLYEN**
+Telegram Community: [https://t.me/WOONKLYEN](https://t.me/WOONKLYEN)
 
-**Telegram Broadcast: https://t.me/Woonkly\_EN**
+Telegram Broadcast: [https://t.me/Woonkly\_EN](https://t.me/Woonkly_EN)
 
-**Medium:** [**https://woonkly.medium.com/**](https://woonkly.medium.com/)
+Medium: [https://woonkly.medium.com/](https://woonkly.medium.com/)
 
-**Reddit:** [**https://www.reddit.com/user/Woonkly/**](https://www.reddit.com/user/Woonkly/) ****
+Reddit: [https://www.reddit.com/user/Woonkly/](https://www.reddit.com/user/Woonkly/) 
 
-**Githhub:** [**https://github.com/Woonkly**](https://github.com/Woonkly)
+Githhub: [https://github.com/Woonkly](https://github.com/Woonkly)
 
-**Livepaper Url: https://whitepaper.woonkly.com/livepaper-ing/**
+Livepaper Url: [https://whitepaper.woonkly.com/livepaper-ing/](https://whitepaper.woonkly.com/livepaper-ing/)
 
-**Coingecko: https://www.coingecko.com/es/monedas/woonkly-power**
+Coingecko: [https://www.coingecko.com/en/coins/woonkly-power](https://www.coingecko.com/en/coins/woonkly-power)
 
-**Coinmarketcap: https://coinmarketcap.com/es/currencies/woonkly-power/**  
+Coinmarketcap: [https://coinmarketcap.com/currencies/woonkly-power/](https://coinmarketcap.com/currencies/woonkly-power/)  
 
 
 ## **What products / services does Woonkly have?**
