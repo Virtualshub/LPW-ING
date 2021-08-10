@@ -139,7 +139,7 @@ The KYC or "Know Your Customer" is a verification process which has the purpose 
 ## **What are the valid documents for KYC? \(Valid for all Woonkly Products\)**
 
 1. Current ID or Passport \(Driver License is not valid, only for UK\). 
-2. Prove of address, no older than 3 months \(Prove of address must contains: Same name as the ID, valid address, receipt/bill of: Electricity, gas, water, internet home services, bank statement, direct debit receipt, census, tax payment of the country\).  NOTE: 1. invoices for common services such as amazon, workshops, mailings, and others, are not valid. 2. Leasing contract \(house/department\) only if it has a notary's signature. 
+2. Prove of address, no older than 3 months \(Prove of address must contains: Same name as the ID, valid address, receipt/bill of: Electricity, gas, water, internet home services, bank statement, direct debit receipt, census, tax payment of the country\).  NOTE: 1. Invoices for common services such as amazon, workshops, mailings, and others, are not valid. 2. Leasing contract \(house/department\) only if it has a notary's signature. 
 3. Blacklist countries – Denied access / Grey list countries – Limited access, the person must prove the incoming of his founds.
 
 ## Which countries cannot pass KYC on Woonkly?
