@@ -18,7 +18,7 @@ The 1,000,000,000 \( one billion\) of WOOPs are pre-mined and no more can be cre
 * 1% Liquidity blocked in the Wault Finance protocol
 * 0.5% Liquidity in Pancakeswap.finance
 
-40% of the WOOP Tokens are in the hands of the team and advisors, but to protect the market, a blockade of the Tokens has been imposed for 14 years with a progressive release. The blockade will begin on April 1, 2021, leaving only 1% of the tokens released in the first year at the beginning. You can see the Smart Contract of the Block of Tokens of the team and advisors [HERE](https://github.com/Woonkly/STAKESmartContractPreRelease/blob/main/Investing.sol). The team and advisors cannot sell the blocked WOOPs, only the unlocked ones, but they can Stake in Woonkly and receive the corresponding benefits in tokens.
+40% of the WOOP Tokens are in the hands of the team and advisors, but to protect the market, a blocking of the Tokens has been imposed for 14 years with a progressive release. The blocking will begin on April 1, 2021, leaving only 1% of the tokens released in the first year at the beginning. You can see the Smart Contract of the Block of Tokens of the team and advisors [HERE](https://github.com/Woonkly/STAKESmartContractPreRelease/blob/main/Investing.sol). The team and advisors cannot sell the blocked WOOPs, only the unlocked ones, but they can Stake in Woonkly and receive the corresponding benefits in tokens.
 
 **Unlocking structure of Team Tokens and Advisors:**
 
