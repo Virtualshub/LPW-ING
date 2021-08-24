@@ -4,7 +4,7 @@ description: 'The power of data, in the hands of users'
 
 # Decentralized Social Network \(In Process\)
 
-Woonkly is developing a decentralized social network that will see the light of day approximately July 2021 in its version 1.0.
+Woonkly is developing a decentralized social network that will see the light of day approximately Q3 2021 in its version 1.0.
 
 The entire social network works on our own Blockchain.
 
