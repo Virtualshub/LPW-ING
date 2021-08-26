@@ -20,14 +20,13 @@ These events include:
 * International Cryptocurrency Investment Congress in Dubai, September 2018
 * Blockchain Murcia, May 2019
 
-After proving that the concept had a place within the crypto and advertising world, Woonkly started operations with a team of developers in Mexico.  
+After proving that the concept had a place within the crypto and advertising world, Woonkly started operations with a team of developers in Mexico.
 
+Today, Woonkly has more than 17 developers and a team of more than 40 professionals located in different parts of the world.
 
-Today, Woonkly has more than 17 developers and a team of professionals located in different parts of the world. In addition, Woonkly found a great market opportunity, since there are many areas in which innovation is required and various needs to be covered because the blockchain and crypto world is an ecosystem in constant evolution.  
+Woonkly found a great market opportunity, as blockchain and crypto technology is a rapidly growing ecosystem that offers the possibility to substantially improve processes in different economic, scientific, and other fields that require innovation.
 
-
-Therefore, Woonkly became a corporate technology solutions "Woonkly Labs" and the initial social network application one of its branches.  
-
+In 2021, Woonkly became a technology solutions corporation, "Woonkly Labs," and the social network's initial idea became one of its branches.
 
 Today, Woonkly has more than six products / services within its parent company and continues to constantly grow, program and innovate on a daily basis.  
 ****
