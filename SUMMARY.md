@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [What is Woonkly](what-is-woonkly.md)
+* [What is Woonkly Labs](what-is-woonkly.md)
 * [Woonkly Story](woonkly-story.md)
 * [Woonkly Products](woonkly-products-1/README.md)
   * [Blockchain-based Startup Accelerator](woonkly-products-1/blockchain-based-startup-accelerator.md)
