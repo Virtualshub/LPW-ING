@@ -22,7 +22,7 @@ Woonkly Labs believes in blockchain as the next big thing. Woonkly's founders ha
 
 Woonkly Labs is a 100% transparent, continuously evolving, and highly communicative company, so it provides frequent updates on the project through its multiple communication channels. 
 
-Woonkly believes in developing products with clear protocols and licenses that allow them to operate legally. All to contribute to the sustainable and legal growth of the global crypto and blockchain ecosystem.  
+Woonkly believes in developing products with clear protocols and licenses that allow them to operate legally and bridge the gap between blockchain and the traditional world. All to contribute to the sustainable and legal growth of the global crypto and blockchain ecosystem.  
   
 
 
