@@ -2,7 +2,7 @@
 description: Supporting innovation when no one else is
 ---
 
-# Blockchain-based Startup Accelerator
+# Blockchain-based Startup Accelerator and Fund
 
 Woonkly OÜ is a company created by serial entrepreneurs and that is why we have a real commitment to innovation and the young talents that they develop on Blockchain.
 
@@ -21,16 +21,9 @@ The Woonkly Accelerator is a Joinventure Woonkly OÜ and Crypto plaza and aims t
 * Woonkly and Crypto plaza will be able to invest more capital during the acceleration in the companies in which they see more potential.
 * At the end of the acceleration, a joint event will take place in which startups can make their final pitch and impress investors to get more capital.
 
-  
-  
-****Countries where the Woonkly accelerator will have a presence:
+Countries where the Woonkly accelerator will have a presence:
 
 * Estonia: Official Headquarters of Woonkly OU.
 * Spain: Association with Cryptoplaza \(Madrid\), where Startups associated with Cryptoplaza are accelerated.
-* Mexico: Directed by the Plug & Play Mexico Investor.
-
-  
-  
-**THE FIRST CALL FOR STARTUPS OF THE WOONKLY ACCELERATOR WILL BE AT THE END OF 2021. THE TERMS AND CONDITIONS WILL BE PUBLISHED AT THE END OF 2021.**  
-
+* Mexico: Directed by the Plug & Play Mexico Investor.  **THE FIRST CALL FOR STARTUPS OF THE WOONKLY ACCELERATOR WILL BE AT THE END OF 2021. THE TERMS AND CONDITIONS WILL BE PUBLISHED AT THE END OF 2021.** 
 

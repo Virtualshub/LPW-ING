@@ -7,7 +7,7 @@
   * [DEFI.FINANCE V1.2](woonkly-products-1/defi.finance-v1.2.md)
   * [Decentralized Social Network \(In Progress\)](woonkly-products-1/untitled-1.md)
   * [NFT.FINANCE](woonkly-products-1/nft.finance.md)
-  * [Blockchain-based Startup Accelerator](woonkly-products-1/blockchain-based-startup-accelerator.md)
+  * [Blockchain-based Startup Accelerator and Fund](woonkly-products-1/blockchain-based-startup-accelerator.md)
 * [Stake Pool](stake-pool.md)
 * [Revenue Automation](revenue-automation.md)
 * [Roadmap](roadmap.md)
