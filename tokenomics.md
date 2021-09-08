@@ -36,5 +36,5 @@ Currently, 40% of the tokens are blocked from April 1, 2021 in a Smart Contract;
 
 _100% of the 1,000,000,000 \(one billion\) of WOOP will not be in circulation until April 1, 2035._
 
-![](.gitbook/assets/diseno-sin-titulo-1-.png)
+![](.gitbook/assets/image%20%2887%29.png)
 
