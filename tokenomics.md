@@ -34,8 +34,7 @@ The blocking of team and advisors tokens helps protect the large capital sales m
 Currently, 40% of the tokens are blocked from April 1, 2021 in a Smart Contract; 15% belongs to the Woonkly Reserve to add liquidity in the Shared Liquidity Pool; and the approximate 10,3% has not yet been exchanged from Woonks \(old Woonkly token\) to WOOP \(new Woonkly token\); which means that **APPROXIMATELY ONLY 33,7% OF TOKENS ARE REALLY IN CIRCULATION TODAY \(About 337,000,000 WOOP\).**  
 
 
-_100% of the 1,000,000,000 \(one billion\) of WOOP will not be in circulation until April 1, 2035._  
+_100% of the 1,000,000,000 \(one billion\) of WOOP will not be in circulation until April 1, 2035._
 
-
-![](.gitbook/assets/image%20%2886%29.png)
+![](.gitbook/assets/diseno-sin-titulo-1-.png)
 
