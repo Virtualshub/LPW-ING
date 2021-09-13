@@ -8,7 +8,7 @@ Woonkly went from being a project to a corporation that encompasses different pr
 
 ## Woonkly Products
 
-* **Decentralized Social Network with Own Blockchain** created in Hyperledger BESU and **A**utomated Advertising System with direct connection between Advertisers and their audience. Regulated by the European Union.
+* **Decentralized Social Network with Own Blockchain** created in Hyperledger BESU and Automated Advertising System with direct connection between Advertisers and their audience. Regulated by the European Union.
 * **Stake Protocol** \(Token Lock\) ****without time limit and total flexibility of entry and exit where 100% of Woonkly's net profit is distributed among the holders of their tokens. Regulated by the European Union.
 * **DEX BNB / WOOP** \(Decentralized Exchange crypto-crypto\) ****of constant liquidity through its own protocol AMM \(Automated Market Maker\), which provides users with the ability to swap "WOOP" tokens for "BNB" automatically instantly, which that creates a constant Liquidity Pool where the fee of each "swap" or exchange of tokens, is distributed between the liquidity providers and the "stakers". Regulated by the European Union.
 * **DEX Multitoken / Multichain ERC20 / BEP20** \(Decentralized Exchange\) of constant liquidity through its own protocol AMM \(Automated Market Maker\), which provides users with the ability to swap any token of the ERC20 \(Ethereum\) and BEP20 \( Binance Smart Chain\) and, where users, in a decentralized way, can create liquidity "pools" for any pair of tokens within each network, being one of the first multitoken / multichain DEXs in the world. Regulated by the European Union.
@@ -17,5 +17,5 @@ Woonkly went from being a project to a corporation that encompasses different pr
 
   Woonkly Academy aims to provide educational content with quality, impartiality, and truthfulness that empowers people and teaches them how to interact with the blockchain ecosystem safely.
 
-* **Blockchain Startup Accelerator** that will be based in Estonia, Madrid, Mexico City and Lisbon. The accelerator aims to empower the best Startups, based on Blockchain, with capital and high-level mentoring. It has an initial capital of +2,000 BNB. Likewise, 10% of the operating capital obtained is automatically added to the Pool for the Startups accelerator.
+* **Blockchain Startup Accelerator and Fund** will be based in Estonia, Madrid, Mexico City and Lisbon. The accelerator aims to empower the best Startups, based on Blockchain, with capital and high-level mentoring. It has an initial capital of +2,000 BNB. Likewise, 10% of the operating capital obtained is automatically added to the Pool for the Startups accelerator.
 

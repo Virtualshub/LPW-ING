@@ -29,11 +29,11 @@ Q1 - 2021:**
 
 **Q3 - 2021:**
 
-* Launch NFT v1 Social Network. 
 * Launch of Version V 2 of defi.finance with its own liquidity router.
 
 **Q4 - 2021:**
 
+* Launch NFT v1 Social Network. 
 * Launch of DEX Crosschain & Stable Coin \(these timings may change as we are looking to be the first DEX Crosschain & Stable coin to comply with the regulations imposed by the European Union\). 
 * Start of development of Woonkly's Artificial Intelligence protocols.
 * Publication of roadmap for the 2022. 
